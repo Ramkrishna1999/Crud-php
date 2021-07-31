@@ -3,15 +3,7 @@
 *::after {
     box-sizing: border-box;
 }
-/*
-body {
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    margin: 0;
-    padding: 50px;
-    background-color: #f7f7f7;
-    color: #222222;
-}
-*/
+
 input {
     font-size: 15px;
 }
